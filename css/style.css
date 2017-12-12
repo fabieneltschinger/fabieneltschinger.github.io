@@ -32,7 +32,7 @@ nav a:hover {
 }
 #portrait_image {
   background-size: cover;
-  background-image: url("../Img/Fabien_Eltschinger.jpg");
+  background-image: url("../img/Fabien_Eltschinger.jpg");
   background-position: top center;
   position: absolute;
   height: 100%;
