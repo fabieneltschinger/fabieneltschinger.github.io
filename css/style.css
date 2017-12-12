@@ -257,6 +257,9 @@ body {
   }
 }
 @media only screen and (max-width: 480px) {
+  #about {
+    display: block;
+  }
   nav li{
     display: block;
     line-height: 0.1em;
